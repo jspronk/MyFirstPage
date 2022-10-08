@@ -1,5 +1,5 @@
 ---
 title: "YOUR-TITLE"
-date: YYYY-MM-DD
+date: 2022-10-07
 ---
 This is my first test post. 
